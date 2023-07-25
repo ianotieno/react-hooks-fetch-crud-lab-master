@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "prompt": "ian",
+      "answers": [
+        "otieno",
+        "brian",
+        "agutu",
+        "hellen"
+      ],
+      "correctIndex": 2,
+      "id": 2
+    },
+    {
+      "prompt": "ian",
+      "answers": [
+        "otieno",
+        "brian",
+        "agutu",
+        "hellen"
+      ],
+      "correctIndex": 1,
+      "id": 3
+    },
+    {
+      "prompt": "rose",
+      "answers": [
+        "mary",
+        "john",
+        "paul",
+        "owino"
+      ],
+      "correctIndex": 1,
+      "id": 4
+    }
+  ]
+}
